@@ -227,14 +227,14 @@ print(me.motto())
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | 🎓 B.Tech — CSE (Data Science) | Kalasalingam Academy of Research and Education, Virudhunagar, TN | 2022 – 2026 | **CGPA: 7.09 / 10** |
-| 📘 Class XII | CEOA Matriculation Higher Secondary School, Madurai, TN | 2022 | **69.92%** |
+| 📘 Class XII | CEOA Matriculation Higher Secondary School, Madurai, TN | 2022 | **70%** |
 | 📗 Class X | CEOA Matriculation Higher Secondary School, Madurai, TN | 2020 | **92.20%** |
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱
 
 ```
 🧠 Machine Learning & Deep Learning  →  Neural Networks, CNNs, Transfer Learning, Model Deployment
