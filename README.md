@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Science+%7C+AI+%7C+ML+Engineer;Python+%7C+SQL+%7C+Flutter+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;Transforming+Data+into+Impact+%F0%9F%93%8A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Science+%7C+AI+%7C+ML;Python+%7C+SQL+%7C+Flutter+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;Transforming+Data+into+Impact+%F0%9F%93%8A" />
 </p>
 
 ---
